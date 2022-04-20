@@ -1,0 +1,66 @@
+Partlist
+
+Exported from 808_bass_drum.sch at 2018-10-28 9:47 PM
+
+EAGLE Version 9.0.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                    Device                            Package            Library     Sheet
+
+ACCENT   JACK_THONKICONNNEW       JACK_THONKICONNNEW                WQP-PJ301M-12_JACK 0000-master 1
+C1       0.1                      CAPACITOR-EUC0603                 C0603              0000-master 1
+C38      100n                     CAPACITOR-EUC0603                 C0603              0000-master 1
+C39      33n                      CAPACITOR-EUC0603                 C0603              0000-master 1
+C40      15n                      CAPACITOR-EUC0603                 C0603              0000-master 1
+C41      15n                      CAPACITOR-EUC0603                 C0603              0000-master 1
+C42      15n                      CAPACITOR-EUC0603                 C0603              0000-master 1
+C43      33/6.3                   CAPACITOR_POLARIZED-USE2.5-5      E2,5-5             0000-master 1
+C45      100n                     CAPACITOR-EUC0603                 C0603              0000-master 1
+C47      .47/50                   CAPACITOR_POLARIZED-USE2.5-5      E2,5-5             0000-master 1
+C48      220p                     CAPACITOR-EUC0603                 C0603              0000-master 1
+C49      .47/50                   CAPACITOR_POLARIZED-USE2.5-5      E2,5-5             0000-master 1
+C50      1/50                     CAPACITOR_POLARIZED-USE2.5-5      E2,5-5             0000-master 1
+D1       1N4148                   DIODE-1N4148SOD-323               SOD323W_INFINEON   0000-master 1
+D52      1N4148                   DIODE-1N4148SOD-323               SOD323W_INFINEON   0000-master 1
+D53      1N4148                   DIODE-1N4148SOD-323               SOD323W_INFINEON   0000-master 1
+DECAY    500K(B)                  POT_9MM_PCB-PLS                   9MM_PLS            0000-master 1
+IC1      OPAMP-TL072D             OPAMP-TL072D                      SO08               0000-master 1
+J1       HEADER-EUROPWR_2X05-OPEN HEADER-EUROPWR_2X05-OPEN          2X05_EUROPWR_OPEN  0000-master 1
+LEVEL    100KA                    POT_9MM_PCB-PLS                   9MM_PLS            0000-master 1
+OUT      JACK_THONKICONNNEW       JACK_THONKICONNNEW                WQP-PJ301M-12_JACK 0000-master 1
+Q1       bc546                    TRANSISTOR-NPN-BC846ALT1SOT23-BEC SOT23-BEC          0000-master 1
+Q2       bc556                    TRANSISTOR-PNP-BC856BLT1SOT23-BEC SOT23-BEC          0000-master 1
+Q3       bc546                    TRANSISTOR-NPN-BC846BLT1SOT23-BEC SOT23-BEC          0000-master 1
+Q4       bc546                    TRANSISTOR-NPN-BC846BLT1SOT23-BEC SOT23-BEC          0000-master 1
+Q5       bc546                    TRANSISTOR-NPN-BC846ALT1SOT23-BEC SOT23-BEC          0000-master 1
+Q6       bc546                    TRANSISTOR-NPN-BC846ALT1SOT23-BEC SOT23-BEC          0000-master 1
+R1       100K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R152     22K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R153     10K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R154     10K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R155     4K7                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R156     1M                       RESISTOR-EU_R0603                 R0603              0000-master 1
+R157     8K2                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R158     2K7                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R159     100K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R160     22K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R161     1M                       RESISTOR-EU_R0603                 R0603              0000-master 1
+R162     4K7                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R163     100K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R164     47K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R165     47K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R166     6K8                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R167     1M                       RESISTOR-EU_R0603                 R0603              0000-master 1
+R168     22K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R169     47K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R170     470K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R171     220R                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R172     10K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R173     6K8                      RESISTOR-EU_R0603                 R0603              0000-master 1
+R174     100K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R175     1K                       RESISTOR-EU_R0603                 R0603              0000-master 1
+R176     100K                     RESISTOR-EU_R0603                 R0603              0000-master 1
+R177     82K                      RESISTOR-EU_R0603                 R0603              0000-master 1
+TONE     10K(C)                   POT_9MM_PCB-PLS                   9MM_PLS            0000-master 1
+TRIG     JACK_THONKICONNNEW       JACK_THONKICONNNEW                WQP-PJ301M-12_JACK 0000-master 1

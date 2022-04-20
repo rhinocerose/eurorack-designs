@@ -1,0 +1,85 @@
+Partlist
+
+Exported from phoreo.sch at 2018-10-02 10:52 AM
+
+EAGLE Version 9.0.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                         Device                              Package            Library       Sheet
+
+C1       100n                          CAPACITOR-EUC0603K                  C0603K             0000-master   1
+C2       10u                           CAPACITOR_POLARIZED-USB             PANASONIC_B        0000-master   1
+C3       10u                           CAPACITOR_POLARIZED-USB             PANASONIC_B        0000-master   1
+C4       100n                          CAPACITOR-EUC0603                   C0603              0000-master   1
+C5       100n                          CAPACITOR-EUC0603                   C0603              0000-master   1
+D1       SS12                          D_SCHOTTKY-SMA                      SMA_DO214AC        we-rcl        1
+D2       SS12                          D_SCHOTTKY-SMA                      SMA_DO214AC        we-rcl        1
+IC1      OPAMP-TL074D                  OPAMP-TL074D                        SO14               0000-master   1
+IC2      MEGA8-AI                      MEGA8-AI                            TQFP32-08          atmel         1
+IC3      7805DT                        7805DT                              TO252              linear        1
+J1       HEADER-EUROPWR_2X05-OPEN      HEADER-EUROPWR_2X05-OPEN            2X05_EUROPWR_OPEN  0000-master   1
+J2       JACK_THONKICONN-WQP-PJ301M-12 JACK_THONKICONN-WQP-PJ301M-12       WQP-PJ301M-12_JACK 0000-master   1
+J3       JACK_THONKICONN-WQP-PJ301M-12 JACK_THONKICONN-WQP-PJ301M-12       WQP-PJ301M-12_JACK 0000-master   1
+J4       JACK_THONKICONN-WQP-PJ301M-12 JACK_THONKICONN-WQP-PJ301M-12       WQP-PJ301M-12_JACK 0000-master   1
+JP2                                    PINHD-2X3                           2X03               pinhead       1
+LED1                                   LED3MM                              LED3MM             0000-master   1
+LED2                                   LED3MM                              LED3MM             0000-master   1
+Q1       16 MHz                        CSTCR6M00G53Z                       CSTCR6M            murata-filter 1
+R1       100k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R2       100k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R3       100k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R4       1M                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R5       1M                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R6       1M                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R7       10k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R8       10k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R9       10k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R10      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R11      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R12      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R13      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R14      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R15      POT_9MM_PCB-PLS               POT_9MM_PCB-PLS                     9MM_PLS            0000-master   1
+R16      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R17      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R18      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R19      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R20      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R21      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R22      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R23      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R24      120k                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R25      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R26                                    RESISTOR-EU_R0603                   R0603              0000-master   1
+R27      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R28      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R29      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R30      51k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R31      10k                           RESISTOR-EU_R0603                   R0603              0000-master   1
+R32      1k                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R33      1k                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R34      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R35      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R36      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R37      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R38      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R39      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R40      100R                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R41      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R42      100R                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R43      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+R44      100R                          RESISTOR-EU_R0603                   R0603              0000-master   1
+R45      1K                            RESISTOR-EU_R0603                   R0603              0000-master   1
+T1       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+T2       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+T3       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+T4       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+T5       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+T6       MMBT3904                      TRANSISTOR-NPN-MMBT3904LT1SOT23-BEC SOT23-BEC          0000-master   1
+U1       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
+U2       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
+U3       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
+U4       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
+U5       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
+U6       mulcv                         JACK_THONKICONNNEW                  WQP-PJ301M-12_JACK 0000-master   1
