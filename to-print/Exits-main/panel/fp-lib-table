@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "streams")(type KiCad)(uri "$(KIPRJMOD)/streams.pretty")(options "")(descr ""))
+)

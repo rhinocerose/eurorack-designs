@@ -1,0 +1,66 @@
+Partlist	
+	
+Exported from 808_bass_drum.brd at 2018-11-11 5:36 PM	
+	
+EAGLE Version 9.0.0 Copyright (c) 1988-2018 Autodesk	 Inc.
+	
+Assembly variant: 	
+	
+Part     Value                    Package            Library     Position (mil)        Orientation	
+	
+ACCENT   JACK_THONKICONNNEW       WQP-PJ301M-12_JACK 0000-master (200 900)             MR0	
+C1       0.1                      C0603              0000-master (350 700)             R0	
+C38      100n                     C0603              0000-master (650 3200)            R90	
+C39      33n                      C0603              0000-master (650 3450)            R90	
+C40      15n                      C0603              0000-master (350 1350)            R0	
+C41      15n                      C0603              0000-master (400 3800)            R0	
+C42      15n                      C0603              0000-master (387.5 3662.5)        R90	
+C43      33/6.3                   E2	5-5             0000-master (500 3400)            R90
+C45      100n                     C0603              0000-master (100 3350)            R270	
+C47      .47/50                   E2	5-5             0000-master (250 3400)            R90
+C48      220p                     C0603              0000-master (437.5 2862.5)        R90	
+C49      .47/50                   E2	5-5             0000-master (100 2700)            R90
+C50      1/50                     E2	5-5             0000-master (650 2700)            R270
+D1       1N4148                   SOD323W_INFINEON   0000-master (350 900)             R0	
+D52      1N4148                   SOD323W_INFINEON   0000-master (675 3662.5)          R270	
+D53      1N4148                   SOD323W_INFINEON   0000-master (350 1550)            R180	
+DECAY    500K(B)                  9MM_PLS            0000-master (387.5 3025)          MR0	
+IC1      OPAMP-TL072D             SO08               0000-master (387.5 2450)          R270	
+J1       HEADER-EUROPWR_2X05-OPEN 2X05_EUROPWR_OPEN  0000-master (600 1450)            R90	
+LEVEL    100KA                    9MM_PLS            0000-master (387.5 2225)          MR0	
+OUT      JACK_THONKICONNNEW       WQP-PJ301M-12_JACK 0000-master (550 300)             MR180	
+Q1       bc546                    SOT23-BEC          0000-master (350 350)             R180	
+Q2       bc556                    SOT23-BEC          0000-master (150 1300)            R0	
+Q3       bc546                    SOT23-BEC          0000-master (150 1700)            R0	
+Q4       bc546                    SOT23-BEC          0000-master (150 2000)            R0	
+Q5       bc546                    SOT23-BEC          0000-master (650 2000)            R0	
+Q6       bc546                    SOT23-BEC          0000-master (400 3050)            R270	
+R1       100K                     R0603              0000-master (350 800)             R180	
+R152     22K                      R0603              0000-master (350 600)             R180	
+R153     10K                      R0603              0000-master (350 500)             R0	
+R154     10K                      R0603              0000-master (150 350)             R0	
+R155     4K7                      R0603              0000-master (150 900)             R0	
+R156     1M                       R0603              0000-master (550 3200)            R270	
+R157     8K2                      R0603              0000-master (150 1450)            R180	
+R158     2K7                      R0603              0000-master (150 1550)            R180	
+R159     100K                     R0603              0000-master (350 2050)            R180	
+R160     22K                      R0603              0000-master (450 3200)            R270	
+R161     1M                       R0603              0000-master (587.5 3662.5)        R270	
+R162     4K7                      R0603              0000-master (350 1650)            R0	
+R163     100K                     R0603              0000-master (350 1450)            R0	
+R164     47K                      R0603              0000-master (312.5 2612.5)        R180	
+R165     47K                      R0603              0000-master (100 2450)            R180	
+R166     6K8                      R0603              0000-master (100 2350)            R180	
+R167     1M                       R0603              0000-master (287.5 3662.5)        R90	
+R168     22K                      R0603              0000-master (650 2350)            R270	
+R169     47K                      R0603              0000-master (650 2500)            R270	
+R170     470K                     R0603              0000-master (487.5 3662.5)        R270	
+R171     220R                     R0603              0000-master (187.5 3662.5)        R270	
+R172     10K                      R0603              0000-master (87.5 3662.5)         R270	
+R173     6K8                      R0603              0000-master (300 2862.5)          R270	
+R174     100K                     R0603              0000-master (475 2612.5)          R180	
+R175     1K                       R0603              0000-master (650 950)             R90	
+R176     100K                     R0603              0000-master (300 3200)            R90	
+R177     82K                      R0603              0000-master (200 3200)            R90	
+TONE     10K(C)                   9MM_PLS            0000-master (387.5 3825)          MR0	
+TRIG     JACK_THONKICONNNEW       WQP-PJ301M-12_JACK 0000-master (550 900)             MR0	

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stoichea_v0.2")(type "KiCad")(uri "$(KIPRJMOD)/stoichea_v0.2.pretty")(options "")(descr ""))
+)

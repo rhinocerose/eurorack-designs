@@ -1,0 +1,131 @@
+(footprint "61300111121_479"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WR-PHD 2.54 mm Pin Header, 1 Pin")
+	(property "Reference" "REF**"
+		(at -1.4552 -1.9121 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "53e20383-eb14-4152-bf10-8c176a147a0f")
+		(effects
+			(font
+				(size 0.560832 0.560832)
+				(thickness 0.048768)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "61300111121_479"
+		(at -1.6152 2.4202 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2ba8ef9e-b0ce-4db1-95d2-9ef0fbbdd847")
+		(effects
+			(font
+				(size 0.560832 0.560832)
+				(thickness 0.048768)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa41d5bc-0bcf-48e1-b61d-297d8e6df3bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10f7bab6-faa5-4cf7-8e00-e6cb25d4f83e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a7dbf8a-ec33-42c6-8a00-2bd98bdc2617")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.27 -1.27)
+		(end -1.27 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0d1bd64c-b1a8-4d8c-8c05-48a1d63b7a59")
+	)
+	(fp_line
+		(start -1.27 1.27)
+		(end 1.27 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "238c86f9-0b60-4ba5-9040-f4278ba379c7")
+	)
+	(fp_line
+		(start 1.27 -1.27)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d57cb086-4a31-4529-abb4-3525aa794c86")
+	)
+	(fp_line
+		(start 1.27 1.27)
+		(end 1.27 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b47b845-d315-4ca5-90cc-5a3d8b0af393")
+	)
+	(fp_poly
+		(pts
+			(xy 1.5835 1.5835) (xy -1.5835 1.5835) (xy -1.5835 -1.5835) (xy 1.5835 -1.5835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.CrtYd")
+		(uuid "ac98e88a-a7a8-4d3f-be76-4e0f7e00f603")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "e82bc256-20b1-49b8-8048-ab0c4be281bf")
+	)
+)

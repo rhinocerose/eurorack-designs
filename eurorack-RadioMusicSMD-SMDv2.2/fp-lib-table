@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RadioMusic_F rev2-2")(type "KiCad")(uri "$(KIPRJMOD)/RadioMusic_F rev2-2.pretty")(options "")(descr ""))
+)

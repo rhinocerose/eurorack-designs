@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "RadioMusic_F-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/RadioMusic_F-eagle-import.kicad_sym")(options "")(descr ""))
+)

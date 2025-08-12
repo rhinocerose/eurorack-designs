@@ -1,0 +1,186 @@
+(footprint "SOD323W_INFINEON_1879502"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Diode Package Wave soldering\n\nINFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf")
+	(property "Reference" "REF**"
+		(at -1.65 -0.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1e45d3a5-1990-4327-859d-36700be909fa")
+		(effects
+			(font
+				(size 0.560832 0.560832)
+				(thickness 0.048768)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SOD323W_INFINEON_1879502"
+		(at -1.65 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "41e3ff16-d903-4577-a981-c850eaf1df7f")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7b99226-6f3d-4c3c-9130-4085baac7eeb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "218d20d7-105f-4e9e-99a3-0323787f10cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84266db8-abad-4712-9088-1c3296b49c72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -0.8 -0.55)
+		(end 0.8 -0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75266e54-71c5-4ff9-b763-c334f7da078f")
+	)
+	(fp_line
+		(start 0.8 0.55)
+		(end -0.8 0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f51f4eb-844a-4cfc-bc1a-04d1d196df05")
+	)
+	(fp_poly
+		(pts
+			(xy 0 0.635) (xy -0.762 0.635) (xy -0.762 -0.635) (xy 0 -0.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "82b04f41-215c-4740-8567-6f474e08007f")
+	)
+	(fp_line
+		(start -0.8 0.55)
+		(end -0.8 -0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0d209896-120b-4d43-a3c9-bbef953fe133")
+	)
+	(fp_line
+		(start 0.8 -0.55)
+		(end 0.8 0.55)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8b4f7346-4c6f-4810-b2f4-595d95f83189")
+	)
+	(fp_poly
+		(pts
+			(xy -1.25 0.15) (xy -0.8 0.15) (xy -0.8 -0.15) (xy -1.25 -0.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "a5c21bba-7f03-4deb-9bfe-bc12885a206c")
+	)
+	(fp_poly
+		(pts
+			(xy -0.8 0.55) (xy 0 0.55) (xy 0 -0.55) (xy -0.8 -0.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "5e92c4a9-fc67-4e09-82d9-8ce184b39c31")
+	)
+	(fp_poly
+		(pts
+			(xy 0.8 0.15) (xy 1.25 0.15) (xy 1.25 -0.15) (xy 0.8 -0.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "64bad569-cfe9-4caf-ba7a-d488cb8c0e08")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -5.46 0.52 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "deb03147-5c2d-48a7-b10d-655c162a094a")
+		(effects
+			(font
+				(size 0.747776 0.747776)
+				(thickness 0.065024)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "A" smd rect
+		(at 1.35 0)
+		(size 1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "2c33b4fd-79d5-4c95-aecf-e99e0add59a6")
+	)
+	(pad "C" smd rect
+		(at -1.35 0)
+		(size 1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "3bbbf6f1-cdbb-40e9-8613-f1ce583b0ffb")
+	)
+)

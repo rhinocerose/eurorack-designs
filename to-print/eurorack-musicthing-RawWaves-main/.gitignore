@@ -1,0 +1,7 @@
+.vscode/
+ArduinoOutput/
+fp-info-cache
+*.kicad_prl
+Hardware/KiCad/RawWavesV2-backups/*
+*~
+~*
